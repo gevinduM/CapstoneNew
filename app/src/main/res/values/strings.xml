@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FileLocker</string>
+    <string name="place_your_finger_here_to_start">Place your finger here to start!</string>
+    <string name="first_authenticate_your_self">First authenticate your self</string>
+</resources>
